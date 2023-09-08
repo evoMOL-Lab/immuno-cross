@@ -50,7 +50,7 @@ They are also listed in the file requirements.txt, at the scripts folder.
 
 The scheme below describes the methodology workflow that Immuno-cross uses to identify cross-identity peptides. 
 
-![](pipeline.png)
+![](pipeline.jpg)
 
 The pipeline is organized in the follwing order:  
 
