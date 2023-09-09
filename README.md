@@ -50,7 +50,8 @@ They are also listed in the file requirements.txt, in the scripts folder.
 
 The scheme below describes the methodology workflow that Immuno-cross uses to identify cross-identity peptides. 
 
-![](pipeline.jpg)
+![The Immuno-cross pipeline](pipeline-new.jpg)
+**The Immuno-cross pipeline:** **A**. Data retrieving steps (blue), input data, and subsequent analysis (gray). **B**. The search for cross-reactivity of the peptides from human nervous system proteins against peptides from Epstein-Barr virus. **C**. The pipeline uses four rules for selecting nonamers with relevant identities interacting with the TCR. It starts with a minimal identity of 44% between the residues of two given nonamers and identical residues at position 5 (P5) as base criteria and the cross-identity of nonamers that bind to the same HLA allele or HLA alleles contained in a common haplotype. **D**. The three additional rules used to select nonamers where TCR-relevant cross-identity may occur. Criterion 1: identical residues at P2, P3, and P8 (P2-P3-P5-P8). Criterion 2: two identical residues at P2, P3 or P8, and at least one identical residue at P4, P6 or P7 (P5 - 2 x P2/P3/P8 -  1 x P4/P6/P7). Criterion 3: identical residues at P4, P6 and P7 and at least one identical residue at P2, P3 and P8 (P5 - 1 x P2/P3/P8 -P4-P6-P7).
 
 The pipeline is organized in the following order:  
 
