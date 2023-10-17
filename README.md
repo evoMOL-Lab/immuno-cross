@@ -4,7 +4,7 @@ Search possible cross-reactivity between the human nervous system and Epstein-Ba
 
 ## Description
 
-*Immuno-cross* is a set of Python scripts that identifies critical contact residues of the T-cell receptor (TCR) based on sequence identity, developed by [Helmut K. A. Patrocínio](https://github.com/helkennedy) and [Tayná Fiúza](https://github.com/fiuzatayna). Our approach helped to reveal that several peptides derived from the nervous system and Epstein-Barr virus (EBV) proteins share identical residues at these critical contact points. This suggests the possibility of cross-reactivity between them. The pipeline can be used to search for nonamer pairs from other sources and other human proteins.
+*Immuno-cross* is a set of Python scripts that identifies critical contact residues of the T-cell receptor (TCR) based on sequence identity, developed by [Helmut K. A. Patrocínio](https://github.com/helkennedy) and [Tayná Fiúza](https://github.com/fiuzatayna), under the supervision of [João Paulo M.S. Lima](https://github.com/jpmslima). Our approach helped to reveal that several peptides derived from the nervous system and Epstein-Barr virus (EBV) proteins share identical residues at these critical contact points. This suggests the possibility of cross-reactivity between them. The pipeline can be used to search for nonamer pairs from other sources and other human proteins.
 
 ## Folders content
 
